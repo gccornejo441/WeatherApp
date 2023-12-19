@@ -1,0 +1,104 @@
+[
+  {
+    "shop": "Bongiorno & Sons",
+    "location": "8450 Honeycutt Rd. Suite 106, Raleigh, NC 27615",
+    "specialty": ""
+  },
+  {
+    "shop": "Southern Craft Sandwiches",
+    "location": "8460 Honeycutt Rd., Ste. 116, Raleigh, NC 27615",
+    "specialty": ""
+  },
+  {
+    "shop": "Alimentari at Transfer Food Hall",
+    "location": "500 E. Davie St., Transfer Co. Food Hall, Raleigh, NC 27601",
+    "specialty": ""
+  },
+  {
+    "shop": "Sosta Cafe",
+    "location": "130 E. Davie St. Raleigh, NC 27601",
+    "specialty": ""
+  },
+  {
+    "shop": "Ish",
+    "location": "702 N. Person St., Raleigh, NC 27604",
+    "specialty": ""
+  },
+  {
+    "shop": "Ideals",
+    "location": "2108 Angier Ave, Durham, North Carolina",
+    "specialty": "Italiano, fried eggplant and ricotta sandwiches"
+  },
+  {
+    "shop": "Eastcut",
+    "location": [
+      "3211 Old Chapel Hill Rd., Durham, NC 27707",
+      "1101 E. Whitaker Mill Rd., Ste. 126, Raleigh, NC 27604"
+    ],
+    "specialty": "Cutlet sandwiches with various toppings"
+  },
+  {
+    "shop": "Na’Mean at Kokyu",
+    "location": "245 East North Carolina Highway 54, Durham, NC 27713",
+    "specialty": ""
+  },
+  {
+    "shop": "Primo Hoagies",
+    "location": "141 Park at North Hills St Raleigh, NC 27609",
+    "specialty": ""
+  },
+  {
+    "shop": "The Butcher's Market",
+    "location": [
+      "1225 Kildaire Farm Rd, Cary NC 27511",
+      "5045 Falls of Neuse Rd, Raleigh NC 27609",
+      "1540 Dunn Rd, Raleigh NC 27614"
+    ],
+    "specialty": ""
+  },
+  {
+    "shop": "Merritt’s Grill",
+    "location": "Chapel Hill, NC",
+    "specialty": "BLT with avocado"
+  },
+  {
+    "shop": "ish",
+    "location": "Person Street Pharmacy, Raleigh, NC",
+    "specialty": "Reuben, smoked fish melt, fried pickle grilled cheese"
+  },
+  {
+    "shop": "Jubala",
+    "location": "Raleigh, NC",
+    "specialty": "Turkey avocado sandwich, tomato jam sandwich"
+  },
+  {
+    "shop": "Longleaf Swine BBQ",
+    "location": "Raleigh, NC",
+    "specialty": "Brisket, pulled pork, collard green melt sandwiches"
+  },
+  {
+    "shop": "State of Beer",
+    "location": "Raleigh, NC",
+    "specialty": "Sicilian sandwich"
+  },
+  {
+    "shop": "A Place at the Table",
+    "location": "Raleigh, NC",
+    "specialty": "Black bean melt, turkey bacon avocado club"
+  },
+  {
+    "shop": "Lucettegrace",
+    "location": "Downtown Raleigh, NC",
+    "specialty": "The Toulouse sandwich"
+  },
+  {
+    "shop": "Alimentari at Left Bank",
+    "location": "Transfer Co. Food Hall, Raleigh, NC",
+    "specialty": "Tigelles, meatball sub, caprese sandwich"
+  },
+  {
+    "shop": "Benchwarmers Bagels",
+    "location": "Transfer Co. Food Hall, Raleigh, NC",
+    "specialty": "Breakfast and lunchtime bagel sandwiches"
+  }
+]
